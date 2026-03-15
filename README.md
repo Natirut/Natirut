@@ -68,7 +68,7 @@ React / Angular / Vue
       │
 
 API Layer
-.NET Core 
+.NET Core Web Api
 
       │
 
